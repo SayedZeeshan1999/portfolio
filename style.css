@@ -1,0 +1,173 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.body{
+
+}
+.navbar{
+    background-color: rgb(135, 121, 121);
+position: fixed;
+right: 0%;
+padding-right: 675px;
+}
+.navbar li {
+    list-style-type: none;
+    float: left;
+    margin: 20px 20px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 20px 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+}
+.search{
+    padding: 16px 75px;
+    color: white;
+    padding-left: 600px;
+}
+.navbar input{
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 5px 5px;
+}
+.navbar li :hover{
+    color: rgb(255, 255, 255);
+    
+}
+.main{
+    padding-top: 300px;
+    margin-left: 150px;
+    font-size: 30px;
+    padding-bottom: 150px;
+
+
+}
+
+.button{
+    background-color: brown;
+    color: white;
+    padding: 13px 15px;
+    border: 1;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.button:hover{
+    color: black;
+    box-shadow: black;
+}
+.img{
+    display: inline;
+    float: right;
+    padding-left: 150px;
+    padding-top: 150px;
+    padding-right: 200px;
+}
+.box01{
+    color: rgb(0, 0, 0);
+    float:right;
+    width: 600px;
+    margin-right: 70px;
+    padding-right: 20px;
+    padding-top: 100px;
+    padding-right: 150px;
+    padding-left:0px ;
+    margin-left: 0px;
+}
+.img-2{
+    display: inline block;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+.Services{
+padding-top: 75px;
+}
+
+/* section-1 (box1) */
+.box1{
+    display: inline-block;
+    margin-left: 90px;
+}
+.box1 a{
+    padding-left:90px ;
+}
+.box1 p{
+    text-align: center;
+}
+
+
+/* section-2(box2) */
+.box2{
+    display: inline-block;
+    margin-left:195px ;
+}
+.box2 a{
+    padding-left:90px ;
+}
+.box2 p {
+    text-align: center;
+}
+
+/* section-3(box3) */
+.box3{
+    display: inline-block;
+    margin-left: 240px;   
+}
+.box3 p{
+    text-align: center;
+}
+.box3 a{
+    padding-left: 95px;
+}
+
+/* box123 */
+.box123{
+    margin-top: 110px;
+}
+/* 
+section-4 (box4) */
+.box4{
+    display: inline-block;
+    margin-left: 23px;
+}
+.box4 a{
+    padding-left: 90px;
+}
+.box4 p{
+    text-align: center;
+}
+
+
+
+.box5{
+    display: inline-block;
+    margin-left: 211px;
+}
+.box5 a{
+    padding-left: 90px;
+}
+.box5 p{
+    text-align: center;
+}
+
+
+
+.box6{
+    display: inline-block;
+    margin-left: 240px;
+}
+.box6 a{
+    padding-left:100px ;
+}
+.box6 p{
+    text-align: center;
+}
+.box456{
+    margin-top: 90px;
+    padding: 50px;
+}
